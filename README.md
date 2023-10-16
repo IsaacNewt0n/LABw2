@@ -1,4 +1,9 @@
+
+!!!  To deploy project need manually download node_modules folder or add your node_modules to  .gitignore file .Now, when  clone the repository and run npm start on a different system,  after "Cannot find module" error.  need  run npm install to download the necessary dependencies from package.json. !!!!
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
